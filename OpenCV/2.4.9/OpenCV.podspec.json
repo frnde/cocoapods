@@ -1,6 +1,6 @@
 {
   "name": "OpenCV",
-  "version": "2.4.10",
+  "version": "2.4.9",
   "summary": "OpenCV (Computer Vision) for iOS.",
   "homepage": "http://opencv.org",
   "description": "OpenCV: open source computer vision library\n\n    Homepage: http://opencv.org\n    Online docs: http://docs.opencv.org\n    Q&A forum: http://answers.opencv.org\n    Dev zone: http://code.opencv.org",
@@ -18,8 +18,6 @@
   "preserve_paths": "opencv2.framework",
   "public_header_files": "opencv2.framework/Versions/A/Headers/**/*{.h,.hpp}",
   "vendored_frameworks": "opencv2.framework",
-  "header_dir": "opencv2",
-  "header_mappings_dir": "opencv2.framework/Versions/A/Headers/",
   "libraries": [
     "stdc++"
   ],
